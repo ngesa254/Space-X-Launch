@@ -16,3 +16,12 @@
 • Advanced search and filters for finding specific launches.
 • Day/Night theme.
 • Android Wear watch face with countdown.
+
+Launch Tracking
+Track launches from all the major launch providers like SpaceX, ULA, and Orbital/ATK as well as international launches from NASA, ROSCOSMOS, JAXA and ESA.
+
+Science Missions
+Follow along with resupply missions to the International Space Station, commercial satellite launches from providers like IRIDIUM and science missions like ExoMars!
+
+Vehicle Information
+Get to know all the vehicles that take us to orbit such as the Soyuz, Atlas, Delta, Ariane, Proton and Falcon launch vehicle families
