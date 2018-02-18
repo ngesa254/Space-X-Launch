@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="spaceXblack">#181c1f</color>
+    <color name="spaceXblacki">#21272b</color>
+    <color name="spaceXwhite">#ffffff</color>
+    <color name="spaceXgrey">#849199</color>
+
 </resources>
